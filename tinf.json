@@ -4,6 +4,6 @@
 		{"url":"https://tinfoil.ultranx.ru/tinfoil","action": "add"},
 		{"url":"https://nx.ghostland.at/","action": "add"},
 		{"url":"http://world:digital@free.worldigital-brasil.com:8080/","action": "add"},
-		{"url":"https://raw.githubusercontent.com/kevsestre/tinf/main/tinf.json","action": "disable"}
+		{"url":"https://raw.githubusercontent.com/kevsestre/tinf/main/tinf.json","action": "delete"}
 	]
 }
