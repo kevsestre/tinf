@@ -3,7 +3,7 @@
 		{"url":"https://cyrilz87.net/","action": "disable"},
 		{"url":"https://nx-beta.ghostland.at/","action": "enable"},
 		{"url":"https://tinfoil.ultranx.ru/tinfoil","action": "disable"},
-		{"url":"https://gandalfsax.com","action": "disable"},
+		{"url":"https://gandalfsax.com","action": "enable"},
 		{"url":"https://nx.ghostland.at/","action": "enable"},
 		{"url":"http://world:digital@free.worldigital-brasil.com:8080/","action": "disable"},
 		{"url":"https://raw.githubusercontent.com/kevsestre/tinf/main/tinf.json","action": "disable"}
