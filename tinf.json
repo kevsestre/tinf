@@ -1,10 +1,10 @@
 {
 	"locations": [
 		{"url":"https://cyrilz87.net/","action": "disable"},
-		{"url":"https://nx-beta.ghostland.at/","action": "enable"},
+		{"url":"https://nx-beta.ghostland.at/","action": "add"},
 		{"url":"https://tinfoil.ultranx.ru/tinfoil","action": "disable"},
-		{"url":"https://gandalfsax.com","action": "enable"},
-		{"url":"https://nx.ghostland.at/","action": "enable"},
+		{"url":"https://gandalfsax.com","action": "add"},
+		{"url":"https://nx.ghostland.at/","action": "add"},
 		{"url":"http://world:digital@free.worldigital-brasil.com:8080/","action": "disable"},
 		{"url":"https://raw.githubusercontent.com/kevsestre/tinf/main/tinf.json","action": "disable"}
 	]
