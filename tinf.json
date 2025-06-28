@@ -6,6 +6,6 @@
 		{"url":"https://gandalfsax.com","action": "disable"},
 		{"url":"https://nx.ghostland.at/","action": "enable"},
 		{"url":"http://world:digital@free.worldigital-brasil.com:8080/","action": "disable"},
-		{"url":"https://raw.githubusercontent.com/kevsestre/tinf/refs/heads/main/tinf.json","action": "add"}
+		{"url":"https://raw.githubusercontent.com/kevsestre/tinf/refs/heads/main/tinf.json","action": "enable"}
 	]
 }
