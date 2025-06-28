@@ -1,7 +1,7 @@
 {
 	"locations": [
 		{"url":"https://cyrilz87.net/","action": "disable"},
-		{"url":"https://nx-beta.ghostland.at/","action": "disable"},
+		{"url":"https://nx-beta.ghostland.at/","action": "add"},
 		{"url":"https://tinfoil.ultranx.ru/tinfoil","action": "disable"},
 		{"url":"https://gandalfsax.com","action": "add"},
 		{"url":"https://nx.ghostland.at/","action": "add"},
